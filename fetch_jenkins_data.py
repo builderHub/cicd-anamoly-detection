@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 
 # Jenkins Configuration
-JENKINS_URL = "http://localhost:8081"
+JENKINS_URL = "http://localhost:8080"
 USER = "admin"
 API_TOKEN = "119897c7b933dc85a0e750e3fd7f1876ed"
 
